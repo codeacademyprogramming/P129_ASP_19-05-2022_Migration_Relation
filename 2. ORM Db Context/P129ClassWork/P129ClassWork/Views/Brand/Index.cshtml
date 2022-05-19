@@ -1,0 +1,19 @@
+﻿@model List<Brand>
+
+
+@{ 
+    int count = 0;
+}
+
+
+    <h1>Brands</h1>
+<ul>
+    @foreach (var item in Model)
+    {
+
+        <li  style="color:@(item.Id % 2 == 0 ? "red":"green"); background-color:@(item.Id % 2 == 0 ? "green":"red"); display:inline">
+            @*@(item.Id == 1?"Bir":"Code")*@
+            <a href=@("http://localhost:50628/Car/Index/"+item.Id)>@item.Name</a>
+        </li>
+    }
+</ul>

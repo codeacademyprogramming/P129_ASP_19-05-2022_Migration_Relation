@@ -1,0 +1,9 @@
+﻿@model List<Studnet>
+
+<h3>Students</h3>
+<ul>
+    @foreach (Studnet studnet in Model)
+    {
+        <li>@studnet.Id @studnet.Name @studnet.SurName @studnet.Grade </li>
+    }
+</ul>

@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220519060642_AddedTestTabel.cs" />
+    <Compile Remove="Migrations\20220519060642_AddedTestTabel.Designer.cs" />
+    <Compile Remove="Migrations\20220519060910_AddedTestTabel.cs" />
+    <Compile Remove="Migrations\20220519060910_AddedTestTabel.Designer.cs" />
+    <Compile Remove="Migrations\20220519061004_AddedTest1Tabel.cs" />
+    <Compile Remove="Migrations\20220519061004_AddedTest1Tabel.Designer.cs" />
+    <Compile Remove="Migrations\20220519061700_UpdatedBrandTableAddedCountryColumn.cs" />
+    <Compile Remove="Migrations\20220519061700_UpdatedBrandTableAddedCountryColumn.Designer.cs" />
+    <Compile Remove="Migrations\20220519073018_AddedTabelsQrupAndTelebe.cs" />
+    <Compile Remove="Migrations\20220519073018_AddedTabelsQrupAndTelebe.Designer.cs" />
+    <Compile Remove="Migrations\20220519081142_AddedTabelsHumanAndPersonalCardTabel.cs" />
+    <Compile Remove="Migrations\20220519081142_AddedTabelsHumanAndPersonalCardTabel.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.25" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.25" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.25">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

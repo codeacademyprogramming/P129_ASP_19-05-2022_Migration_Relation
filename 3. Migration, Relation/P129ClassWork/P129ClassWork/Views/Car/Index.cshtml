@@ -1,0 +1,10 @@
+﻿@model List<Car>
+    <h1>Cars</h1>
+<ul>
+    @foreach (Car item in Model)
+    {
+        <li>
+            <a href=@("http://localhost:50628/Car/Detail/"+item.Id)>@item.Name</a>
+        </li>
+    }
+</ul>

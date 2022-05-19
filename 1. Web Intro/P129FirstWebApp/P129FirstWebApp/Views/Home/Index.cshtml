@@ -1,0 +1,18 @@
+﻿@model List<Group> 
+
+    <h3>Groups</h3>
+    <ul>
+        @*<li>@ViewData["Name"]</li>
+        <li>@ViewBag.Name</li>
+        <li>@ViewBag.SurName</li>
+        <li>@ViewData["SurName"]</li>
+        <li>@TempData["Grade"]</li>*@
+
+
+        @foreach (Group group in Model)
+        {
+            <li>
+                <a href="@("http://localhost:33541/Home/Studnet/"+group.Id)">@group.Name</a>
+            </li>
+        }
+    </ul>

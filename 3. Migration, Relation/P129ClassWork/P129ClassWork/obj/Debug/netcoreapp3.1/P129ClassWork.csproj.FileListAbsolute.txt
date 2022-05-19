@@ -1,0 +1,154 @@
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.exe
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.deps.json
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.pdb
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\staticwebassets\P129ClassWork.StaticWebAssets.Manifest.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\staticwebassets\P129ClassWork.StaticWebAssets.xml
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\scopedcss\bundle\P129ClassWork.styles.css
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.RazorTargetAssemblyInfo.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.pdb
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.Views.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.Views.pdb
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.RazorAssemblyInfo.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.RazorAssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.TagHelpers.input.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.TagHelpers.output.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.RazorCoreGenerate.cache
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.RazorTargetAssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.Views.pdb
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.csproj.CopyComplete
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\Car\Index.cshtml.g.cs
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\Car\Detail.cshtml.g.cs
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hamid.mammadov\Desktop\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.exe
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.deps.json
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.runtimeconfig.json
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.pdb
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.Views.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\P129ClassWork.Views.pdb
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.RazorAssemblyInfo.cache
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.RazorAssemblyInfo.cs
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\staticwebassets\P129ClassWork.StaticWebAssets.Manifest.cache
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\staticwebassets\P129ClassWork.StaticWebAssets.xml
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\scopedcss\bundle\P129ClassWork.styles.css
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.TagHelpers.input.cache
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.TagHelpers.output.cache
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.RazorCoreGenerate.cache
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\Brand\Index.cshtml.g.cs
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\Car\Detail.cshtml.g.cs
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\Car\Index.cshtml.g.cs
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.RazorTargetAssemblyInfo.cache
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.RazorTargetAssemblyInfo.cs
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.Views.pdb
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.csproj.CopyComplete
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.dll
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.pdb
+C:\Users\hamid.mammadov\Documents\P129\2. ORM Db Context\P129ClassWork\P129ClassWork\obj\Debug\netcoreapp3.1\P129ClassWork.genruntimeconfig.cache
